@@ -4,4 +4,5 @@ LabVIEW软件是NI设计平台的核心，也是开发测量或控制系统的�
 
 ![内容展示](https://github.com/Airseai6/LabView_learn/raw/master/image/1.png)
 ![计算器](https://github.com/Airseai6/LabView_learn/raw/master/image/2.png)
+![计算器](https://github.com/Airseai6/LabView_learn/raw/master/image/3.png)
 
